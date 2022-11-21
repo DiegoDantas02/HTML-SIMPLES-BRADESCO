@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+            <title> EXERCICIO 2 </title>
+</head>
+<body>
+
+    <hr>
+    <h1><font face="verdana" size="3" color="red" >Inserindo efeitos na minha página <i>web.</i> </font></h1>
+
+    <hr>
+
+    <P>Nome:<b> Diego lindão </b></P>
+    <p> Data de Nascimento: <u> 18/08/2000 </u> </p>
+
+    <hr>
+    <p>Muito Legal! ! :> </p>
+    <hr>
+
+</body>
+</html>
